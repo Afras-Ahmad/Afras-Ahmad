@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Afras-Ahmad
+- 👀 I’m interested in all types of programming and want to play in all languages. 
+- 🌱 I’m currently learning Full Stack Development.
+- 💞️ I’m looking to collaborate on Web based project build with and without framework. I am also eager to work on projects involving C++, Java and python.
+- 📫 You can contact me on Email: afras.ahmad143@gmail.com, LinkedIn: www.linkedin.com/in/afras-ahmad
